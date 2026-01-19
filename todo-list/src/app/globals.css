@@ -14,3 +14,8 @@
     color: white;
     margin-right: 10px;
 }
+
+.btn-new:disabled {
+    background-color: grey;
+    cursor: not-allowed;
+}
